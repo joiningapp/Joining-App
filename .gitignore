@@ -1,0 +1,11 @@
+.sf/
+.sfdx/
+# Ignore all Apex classes
+force-app/main/default/classes/*.cls
+force-app/main/default/classes/*.cls-meta.xml
+force-app/main/default/components/*
+force-app/main/default/aura/*
+force-app/main/default/lwc/*
+force-app/main/default/pages/*
+force-app/main/default/staticresources/*
+.vscode
